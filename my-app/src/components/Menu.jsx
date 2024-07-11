@@ -35,7 +35,6 @@ const Menu = () => {
                 <a href="#" class="items"><li><span>Item 3</span></li></a>
                 <a href="#" class="items"><li><span>Item 4</span></li></a>
             </div>
-            
         </>
     )
 
